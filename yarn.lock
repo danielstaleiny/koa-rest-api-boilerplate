@@ -152,12 +152,12 @@
   dependencies:
     debug "^4.1.1"
 
-"@kasa/koa-request-id@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@kasa/koa-request-id/-/koa-request-id-1.0.0.tgz#0363151380d26059a08f51fa0e27650026e9dda3"
-  integrity sha512-TDc0aBBf37CDE8SvWZiKf95Iqcv1CVPiv0k1SGqmpm0gobImVnClxG7vQDwKlOyBEs4PjVZR/V3ArlyBcq9kJQ==
+"@kasa/koa-request-id@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@kasa/koa-request-id/-/koa-request-id-1.0.1.tgz#836c077ce93fa7476b4e48edd74d8e0a1af78fed"
+  integrity sha512-OauDy8cnhIX0cA9it8aSBGHwunKMkPjBcT+DiISFw+44TFMLCk+UXW+soTKoroxzdN1npZMiyQp68jX0tYuGeA==
   dependencies:
-    debug "^4.1.0"
+    debug "^4.1.1"
     uuid "^3.3.2"
 
 "@koa/cors@^2.2.3":
